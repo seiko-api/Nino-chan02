@@ -5,7 +5,7 @@
 
 ___
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+<img src="https://telegra.ph/file/db8671d2449bd0ae93eee.gif" alt="Nakano Nino" width="600" />
 
 ___
 
