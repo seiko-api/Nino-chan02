@@ -5,7 +5,7 @@
 
 ___
 
-<img src="https://telegra.ph/file/db8671d2449bd0ae93eee.gif" alt="Nakano Nino" width="600" />
+<img align="center" height="auto" src="https://telegra.ph/file/db8671d2449bd0ae93eee.gif"=4"/>
 
 ___
 
