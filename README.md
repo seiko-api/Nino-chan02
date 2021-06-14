@@ -19,5 +19,8 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-## Connect with me:
-[`WhatsApp`](http://wa.me/6288286421519)
+### Let's connect with me
+<p>
+<a href="http://wa.me/6288286421519 target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
+<a href="https://t.me/Nino_chann target="blank"><img src="https://img.shields.io/badge/Telegram-30302f?style=flat&logo=telegram" /></a>
+<a href="https://www.instagram.com/nino.chan26/?i=81okh27ab18i&utm_content=k4y4j00" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
