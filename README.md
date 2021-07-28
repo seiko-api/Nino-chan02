@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/wCvqdNx/b7bcb45db18a.jpg" alt="NinoWangy" width="300" />
+<img src="https://avatars.githubusercontent.com/u/81684610?s" alt="NinoWangy" width="300" />
 
 
 
